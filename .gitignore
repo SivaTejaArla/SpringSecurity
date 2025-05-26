@@ -35,6 +35,7 @@ build/
 =======
 # Compiled class file
 *.class
+*.properties
 
 # Log file
 *.log
